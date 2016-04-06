@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S08JS16CWJ
+D SO20, 16KB Flash, 512B RAM
+K MC9S08 8bit Flash Microcontroller
+F http://www.nxp.com/files/32bit/doc/ref_manual/MC9S08JS16RM.pdf?fpsp=1
+$ENDCMP
+#
+#End Doc Library

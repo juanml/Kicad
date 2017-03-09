@@ -1,5 +1,6 @@
-(module TO263-5 (layer F.Cu) (tedit 565769C9)
+(module TO263-5 (layer F.Cu) (tedit 589080F5)
   (tags TO263-5)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

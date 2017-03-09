@@ -1,5 +1,6 @@
-(module M-FLAT (layer F.Cu) (tedit 56544EDF)
-  (fp_text reference REF** (at 0 -2.55) (layer F.SilkS)
+(module M-FLAT (layer F.Cu) (tedit 58907EF1)
+  (attr smd)
+  (fp_text reference D? (at 0 -2.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.12)))
   )
   (fp_text value M-FLAT (at 0 2.65) (layer F.Fab)

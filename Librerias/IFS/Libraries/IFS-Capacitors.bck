@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0603N120F500NT
+D 12pF, 50V, 1%, NPO, 0603
+K Cap, SMD, chip, 12pF
+$ENDCMP
+#
 $CMP 4.7uF
 D 4.7uF, 1206
 K Cap, SMD, chip, 4.7uF
@@ -46,12 +51,6 @@ F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/af
 $ENDCMP
 #
 $CMP CL10C102JB8NNNC
-D 1nF, 50V, 5%, C0G, 0603
-K Capacitor, SMD, chip,1nF
-F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/afieldfile/2014/11/13/MLCC.pdf
-$ENDCMP
-#
-$CMP CL10C102JB8NNNC_
 D 1nF, 50V, 5%, C0G, 0603
 K Capacitor, SMD, chip,1nF
 F http://www.samsungsem.com/global/support/library/product-catalog/__icsFiles/afieldfile/2014/11/13/MLCC.pdf

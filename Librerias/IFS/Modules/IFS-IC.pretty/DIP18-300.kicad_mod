@@ -1,4 +1,4 @@
-(module DIP18-300 (layer F.Cu) (tedit 56576A07)
+(module DIP18-300 (layer F.Cu) (tedit 57D67353)
   (tags DIP18-300)
   (fp_text reference REF** (at 0 -13) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

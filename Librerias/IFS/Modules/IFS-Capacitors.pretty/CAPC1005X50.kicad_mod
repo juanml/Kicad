@@ -1,5 +1,6 @@
-(module CAPC1005X50 (layer F.Cu) (tedit 561399CA)
+(module CAPC1005X50 (layer F.Cu) (tedit 58907D02)
   (tags "CAP, SMD, 0402, 1005, 0.50mm")
+  (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
 (module CAPC3216X45 (layer F.Cu) (tedit 5613A079)
   (tags "CAP, SMD, 1206 3216, 0.45mm")
+  (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

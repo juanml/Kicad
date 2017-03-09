@@ -24,6 +24,12 @@ K MSP430, MSP430F2002, microcontroller, DIP14
 F http://www.ti.com/lit/ds/slas491i/slas491i.pdf
 $ENDCMP
 #
+$CMP MSP430G2553IN20
+D MSP430G2553IN20, DIP20
+K MSP430, MSP430G2553IN20, microcontroller, DIP20-300
+F http://www.ti.com/lit/ds/symlink/msp430g2553.pdf
+$ENDCMP
+#
 $CMP PIC16F1847-I/P
 D PIC16F1847-I/P, DIP18-300
 K PIC16F1847-I/P, microcontroller, DIP18-300

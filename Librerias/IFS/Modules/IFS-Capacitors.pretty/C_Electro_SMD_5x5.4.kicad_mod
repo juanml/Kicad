@@ -1,5 +1,5 @@
-(module C_Electro_SMD_5x5.4 (layer F.Cu) (tedit 5576E451)
-  (fp_text reference REF** (at 0 -4.65) (layer F.SilkS)
+(module C_Electro_SMD_5x5.4 (layer F.Cu) (tedit 5881F014)
+  (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value C_Electro_SMD_5x5.4 (at 0 5.05) (layer F.Fab)

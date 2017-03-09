@@ -46,14 +46,24 @@ D FTSH-105-01-L-DV
 K 2x5, connector
 $ENDCMP
 #
-$CMP IDC10-2.54-V-TH
-D IDC10-2.54-V-TH
+$CMP IDC10-2.54-TH-V
+D IDC10-2.54-TH-V
 K 2x5, connector, IDC10, vertical, TH
 $ENDCMP
 #
-$CMP IDC16-2.54-V-TH
-D IDC16-2.54-V-TH
+$CMP IDC16-2.54-TH-V
+D IDC16-2.54-TH-V
 K 2x8, connector, IDC16, vertical, TH
+$ENDCMP
+#
+$CMP IDC18-2.54-TH-V
+D IDC18-2.54-TH-V
+K 2x9, connector, IDC16, vertical, TH
+$ENDCMP
+#
+$CMP IDC18-2.54-V-TH
+D IDC18-2.54-V-TH
+K 2x9, connector, IDC16, vertical, TH
 $ENDCMP
 #
 $CMP KF2510-A-2P-M-TH-V

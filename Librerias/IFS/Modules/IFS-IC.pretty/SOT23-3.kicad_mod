@@ -1,4 +1,5 @@
 (module SOT23-3 (layer F.Cu) (tedit 56576AAC)
+  (attr smd)
   (fp_text reference U1 (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

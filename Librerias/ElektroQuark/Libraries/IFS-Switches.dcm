@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC11R
+D PEC11R encoder with switch
+K PEC11R, encoder, switch
+$ENDCMP
+#
+$CMP RP900308
+D RP900308 relay
+K RP900308, relay
+$ENDCMP
+#
+#End Doc Library

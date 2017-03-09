@@ -1,5 +1,6 @@
-(module QFN50P400X400X90-24_280X280 (layer F.Cu) (tedit 56576A67)
+(module QFN50P400X400X90-24_280X280 (layer F.Cu) (tedit 58907F40)
   (tags QFN24)
+  (attr smd)
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
